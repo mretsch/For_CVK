@@ -1,6 +1,6 @@
-Name;Alter;Torschuesse;Eintrittsjahr
-Franz;40;0;1999
-Annette;35;10;2014
-Diedrich;35;8;2020
-Marlene;20;4;2005
-Ursula;40;7;2012
+Name,Alter,Torschuesse,Eintrittsjahr
+Franz,40,0,1999
+Annette,35,10,2014
+Diedrich,35,8,2020
+Marlene,20,4,2005
+Ursula,40,7,2012
